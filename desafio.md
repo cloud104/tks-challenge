@@ -23,7 +23,7 @@ A aplicação
 =
 Desenvolvemos essa aplicação simples em GO. O código está disponível aqui: https://github.com/cloud104/tks-challenge
 
-Os binários + _hashes_ para verificação de integridade podem ser baixados aqui: https://storage.googleapis.com/tks-challenge/SHA256SUMS e https://storage.googleapis.com/tks-challenge/SHA256SUMS
+Os binários + _hashes_ para verificação de integridade podem ser baixados aqui: https://storage.googleapis.com/tks-challenge/challenge e https://storage.googleapis.com/tks-challenge/SHA256SUMS
 
 Como a aplicação funciona
 ==
